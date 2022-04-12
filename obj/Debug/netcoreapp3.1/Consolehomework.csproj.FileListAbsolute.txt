@@ -1,0 +1,14 @@
+C:\Users\LEGION\source\repos\Consolehomework\Consolehomework\bin\Debug\netcoreapp3.1\Consolehomework.exe
+C:\Users\LEGION\source\repos\Consolehomework\Consolehomework\bin\Debug\netcoreapp3.1\Consolehomework.deps.json
+C:\Users\LEGION\source\repos\Consolehomework\Consolehomework\bin\Debug\netcoreapp3.1\Consolehomework.runtimeconfig.json
+C:\Users\LEGION\source\repos\Consolehomework\Consolehomework\bin\Debug\netcoreapp3.1\Consolehomework.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Consolehomework\Consolehomework\bin\Debug\netcoreapp3.1\Consolehomework.dll
+C:\Users\LEGION\source\repos\Consolehomework\Consolehomework\bin\Debug\netcoreapp3.1\Consolehomework.pdb
+C:\Users\LEGION\source\repos\Consolehomework\Consolehomework\obj\Debug\netcoreapp3.1\Consolehomework.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\Consolehomework\Consolehomework\obj\Debug\netcoreapp3.1\Consolehomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Consolehomework\Consolehomework\obj\Debug\netcoreapp3.1\Consolehomework.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Consolehomework\Consolehomework\obj\Debug\netcoreapp3.1\Consolehomework.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Consolehomework\Consolehomework\obj\Debug\netcoreapp3.1\Consolehomework.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Consolehomework\Consolehomework\obj\Debug\netcoreapp3.1\Consolehomework.dll
+C:\Users\LEGION\source\repos\Consolehomework\Consolehomework\obj\Debug\netcoreapp3.1\Consolehomework.pdb
+C:\Users\LEGION\source\repos\Consolehomework\Consolehomework\obj\Debug\netcoreapp3.1\Consolehomework.genruntimeconfig.cache
